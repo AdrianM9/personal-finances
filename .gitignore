@@ -1,0 +1,17 @@
+# IDE
+/.idea
+
+# Vite
+/.vite
+/dist
+
+# Dependencies
+/node_modules
+
+# TypeScript
+/src/vite-env.d.ts
+
+# Misc
+.DS_Store
+*.pem
+.env*
